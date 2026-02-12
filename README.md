@@ -26,19 +26,18 @@ Hold LOVE. Share LOVE.
 
 ---
 
-## Contract
-
-(Add after deployment)
-
----
-
-## Links
+## Contact Links:
 
 Telegram- https://t.me/LoveBagCo
 Twitter- https://x.com/LOVEBUGCoin
 Website- https://lovebag.my.canva.site/
-Dex website- https://t.co/bYvNe8eKbN
+
+## Buying Links:
+
 CA: 7pgNNKhoZnfHDDyoenevY2viMifzQ8rp2FTTodCz5xER
+Dex website- https://t.co/bYvNe8eKbN
+Coinsniper- https://coinsniper.net/coin/89802
+top100token- https://top100token.com/solana/7pgNNKhoZnfHDDyoenevY2viMifzQ8rp2FTTodCz5xER
 
 ---
 
