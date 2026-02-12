@@ -40,6 +40,8 @@ CA: 7pgNNKhoZnfHDDyoenevY2viMifzQ8rp2FTTodCz5xER
 
 Dex website- https://t.co/bYvNe8eKbN
 
+Birdeye- https://birdeye.so/solana/token/7pgNNKhoZnfHDDyoenevY2viMifzQ8rp2FTTodCz5xER
+
 Coinsniper- https://coinsniper.net/coin/89802
 
 top100token- https://top100token.com/solana/7pgNNKhoZnfHDDyoenevY2viMifzQ8rp2FTTodCz5xER
